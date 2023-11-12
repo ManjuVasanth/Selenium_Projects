@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="D:/Manju/SeleniumProjects/SeleniumWork/src/test/java/com/herokuapp/internet/ExceptionsTests.java(failed)">
+    <classes>
+      <class name="com.herokuapp.internet.ExceptionsTests">
+        <methods>
+          <include name="homeWorkTest"/>
+        </methods>
+      </class> <!-- com.herokuapp.internet.ExceptionsTests -->
+    </classes>
+  </test> <!-- D:/Manju/SeleniumProjects/SeleniumWork/src/test/java/com/herokuapp/internet/ExceptionsTests.java(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
